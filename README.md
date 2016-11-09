@@ -4,4 +4,4 @@
 #### OPenCV版本: 2.4.9
 #### [環境配置教學](http://blog.csdn.net/poem_qianmo/article/details/19809337)
 ### 目錄
-*   [作業1_Eliminate Noise Use Average Method]()
+*   [作業1_Eliminate Noise Use Average Method](https://github.com/baconYao/NCHU-Digital-Image/tree/master/hw1_EliminateNoiseUseAvg/hw1)
