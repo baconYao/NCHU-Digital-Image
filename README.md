@@ -5,4 +5,4 @@
 #### 日期: 2016/11/8始
 #### [環境配置教學](http://blog.csdn.net/poem_qianmo/article/details/19809337)
 ### 目錄
-*   [作業1_Eliminate Noise Use Average Method](https://github.com/baconYao/NCHU-Digital-Image/tree/master/hw1_EliminateNoiseUseAvg/hw1)
+*   [作業1_Using-image-averaging-to-reduce-the-high-ISO-noise](https://github.com/baconYao/NCHU-Digital-Image/tree/master/hw1_EliminateNoiseUseAvg/hw1)
